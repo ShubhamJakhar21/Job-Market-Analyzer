@@ -101,9 +101,3 @@ Open `main.py` and change these settings at the top:
 → Run: `pip install playwright` then `playwright install chromium`
 
 ---
-
-## 📝 Resume Line
-
-> "Built a job market analytics tool using Python, Playwright, and Pandas
-> that scraped 200+ job listings from Naukri.com, extracted skill demand
-> data, and produced automated Excel reports with trend charts."
